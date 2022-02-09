@@ -93,7 +93,7 @@
         "lazyload": "^2.0.0-beta.2",
         "loader-utils": "^1.1.0",
         "minimist": "^1.2.0",
-        "node-sass": "^4.5.3",
+        "node-sass": "^7.0.0",
         "popper.js": "^1.12.9",
         "postcss-loader": "^2.0.6",
         "postcss-scss": "^1.0.2",
